@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.footer-con {
+  background-color: #64748b;
+  font-family: 'Roboto';
+  padding: 40px;
+  align-self: stretch;
+}
+.h1 {
+  color: #475569;
+  font-size: 20px;
+  text-align: center;
+}

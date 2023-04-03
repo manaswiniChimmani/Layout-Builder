@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.conf-cntrler-con {
+  background-color: #475569;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.control-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 80%;
+  max-width: 1140px;
+}
+.layout-h1 {
+  color: #ffffff;
+  font-size: 28px;
+}
+.checkboxes {
+  display: flex;
+  flex-direction: column;
+}
+
+.checkbox {
+  height: 18px;
+  width: 28px;
+}
+.label {
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 500;
+  margin-left: 10px;
+}
